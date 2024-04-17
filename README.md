@@ -1,8 +1,11 @@
 # configs
 
-"""
-git clone https://github.com/hamvocke/dotfiles.git ~/.dotfiles
-"""
+get folder
 ```
-ln -s ~/.dotfiles/vim/.vimrc ~/.vimrc
+git clone https://github.com/hamvocke/dotfiles.git ~/.dotfiles
+```
+
+link to get the right 
+```
+ln -s ~/.dotfiles/bash/.bashrc ~/.bashrc
 ```
